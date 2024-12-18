@@ -1,0 +1,87 @@
+<LinearLayout android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical"
+    android:layout_margin="1dp"
+    android:gravity="center"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Visitor Details"
+        android:textStyle="bold"
+        android:layout_margin="10dp"
+        android:textColor="#01060B"
+        android:gravity="center"
+        android:textSize="50dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Firstname"
+        android:layout_margin="10dp"
+        android:textColor="#01060B"/>
+    <EditText
+        android:id="@+id/aq"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+       />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LastName"
+        android:layout_margin="10dp"
+        android:textColor="#01060B"/>
+    <EditText
+        android:id="@+id/sw"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Purpose"
+        android:layout_margin="10dp"
+        android:textColor="#01060B"/>
+    <EditText
+        android:id="@+id/de"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="WhomeToMeet"
+        android:layout_margin="10dp"
+        android:textColor="#01060B"/>
+    <EditText
+        android:id="@+id/fr"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/gt"
+        android:text="Submit"
+        android:textColor="#00050B"
+        android:background="#E91E63"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/hy"
+        android:text="Back to Menu"
+        android:textColor="#00050B"
+        android:background="#E91E63"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"/>
+
+</LinearLayout>
