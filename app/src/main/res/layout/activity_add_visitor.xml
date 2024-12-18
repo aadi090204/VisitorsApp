@@ -70,7 +70,7 @@
         android:id="@+id/gt"
         android:text="Submit"
         android:textColor="#00050B"
-        android:background="#E91E63"
+        android:background="#E91E1E"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"/>
@@ -79,7 +79,7 @@
         android:id="@+id/hy"
         android:text="Back to Menu"
         android:textColor="#00050B"
-        android:background="#E91E63"
+        android:background="#E91E1E"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"/>
