@@ -24,7 +24,7 @@
         android:text="Add Visitor"
         android:textSize="30sp"
         android:textColor="#00050B"
-        android:background="#25871A"
+        android:background="#4D1A87"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"/>
@@ -33,7 +33,7 @@
         android:text="View Visitor"
         android:textSize="30sp"
         android:textColor="#00050B"
-        android:background="#25871A"
+        android:background="#4D1A87"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"/>
